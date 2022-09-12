@@ -1,5 +1,5 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -32,4 +32,12 @@ code {
 .foter-text{
   color: rgb(47, 51, 54);
   font-size: 80%;
+}
+.Catalogofont{
+  font-family: 'Dosis', sans-serif;
+  color: rgb(86, 88, 90);
+}
+.Contactofont{
+  font-family: 'Dosis', sans-serif;
+  color: rgb(86, 88, 90);
 }
